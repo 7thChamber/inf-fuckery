@@ -1,6 +1,10 @@
 import random
 import time
 
+# Have fun with this absolute garbage I made with the
+# absolute most minimal amount of programming knowledge
+# that has graced computation
+
 the_number = random.randint(1, 10)
 start_game = input("Guess a number between 1 and 10: ")
 
